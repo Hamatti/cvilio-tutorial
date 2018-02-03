@@ -1,0 +1,47 @@
+{
+  "data": {
+    "introduction": [
+      "Hi! Welcome to Juhis' CV over SMS (with Twilio API). ",
+      "For experience, reply with \"experience\". For references, reply with \"references\". ",
+      "If you like what you saw and wanna learn more, reply with your email address and I'll get back to you ",
+      "or check out my LinkedIn at https://www.linkedin.com/in/juhamattisantala/."
+    ],
+    "references": [
+      "[retacted from public]",
+      "[retacted from public]",
+      "[retacted from public]",
+    ],
+    "experience": {
+      "index": [
+        "For my experience building dev communities, reply \"devcommunity\". ",
+        "For my experience building tech startup communities, reply \"techstartup\". ",
+        "For my experience teaching programming, reply \"teaching\". ",
+        "For my experience hosting online communities, reply \"online\"."
+      ],
+      "devcommunity": [
+        "Founder & Main Organizer, Developer Community ABC - 12/1988 -> :: ",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus interdum purus quis congue cursus. Morbi dignissim ac lacus at dictum. Class aptent taciti sociosqu ad litora torquent per conubia nostra. ",
+        "Vestibulum vestibulum risus mattis est rhoncus, ac tincidunt arcu molestie. Nulla ipsum dolor, vehicula in odio a, mollis bibendum mauris. ",
+        "Vivamus et porttitor ex, ut lacinia leo. Nullam interdum risus nec dolor hendrerit finibus at eget lectus. Quisque condimentum diam eget nunc scelerisque."
+      ],
+      "techstartup": [
+        "Community Manager, Tech Startup Community - 06/1989-02/1995 :: ",
+        "Praesent consequat malesuada nisl, vitae cursus mauris elementum a. Proin porttitor mollis urna, vel feugiat nunc elementum sed. Sed semper, dui non efficitur lobortis. ",
+        "Nullam eleifend nisi id dapibus tempus. Fusce et nibh mi. Vestibulum non commodo felis. Nullam scelerisque lacus efficitur, volutpat erat non, venenatis turpis. ",
+        "Maecenas ornare libero risus, eu lobortis tortor egestas et. "
+      ],
+      "online": [
+        "Online Community Host, Generic Slack Community - 08/1996-02/1999 ::",
+	"Praesent consequat malesuada nisl, vitae cursus mauris elementum a. Proin porttitor mollis urna, vel feugiat nunc elementum sed. Sed semper, dui non efficitur lobortis. ",
+        "Nullam eleifend nisi id dapibus tempus. Fusce et nibh mi. Vestibulum non commodo felis. Nullam scelerisque lacus efficitur, volutpat erat non, venenatis turpis. ",
+        "Maecenas ornare libero risus, eu lobortis tortor egestas et. "
+      ],
+      "teaching": [
+        "Programming Teacher, Education Facility - 01/2000-12/2018 :: ",
+	"Praesent consequat malesuada nisl, vitae cursus mauris elementum a. Proin porttitor mollis urna, vel feugiat nunc elementum sed. Sed semper, dui non efficitur lobortis. ",
+        "Nullam eleifend nisi id dapibus tempus. Fusce et nibh mi. Vestibulum non commodo felis. Nullam scelerisque lacus efficitur, volutpat erat non, venenatis turpis. ",
+        "Maecenas ornare libero risus, eu lobortis tortor egestas et. "
+      ]
+    }
+  }
+}
